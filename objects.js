@@ -1,6 +1,6 @@
 var playlist = {}
-const artistName;
-const songTitle;
+var artistName;
+var songTitle;
 
 function updatePlaylist(playlist, artistName, songTitle){
   playlist[(artistName)]=(songTitle);
